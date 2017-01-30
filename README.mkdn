@@ -1,0 +1,2 @@
+AOSP for Lenovo Tab3 850F, branch 6.0.1_r78
+
